@@ -15,15 +15,8 @@ const Franco = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 
-- 👨‍💻 All of my projects are available at [https://prizma-devdesign.com/](https://prizma-devdesign.com/)
 ```
-
-
-
 ![Top langs – donut](https://github-readme-stats.vercel.app/api/top-langs/?username=Franco-DevPy&layout=donut&langs_count=6&theme=radical)
-
-
-
 
 ## 🛠️ Competencias / Habilidades
 
@@ -73,10 +66,12 @@ const Franco = {
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50">
 </div>
 
-
+- 👨‍💻 All of my projects are available at [https://prizma-devdesign.com/](https://prizma-devdesign.com/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/franco-mercau-072a6426a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/franco-mercau-072a6426a" height="30" width="40" /></a>
+
+
 
 
 
