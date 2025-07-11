@@ -27,7 +27,7 @@ print(franco.introduce())
 
 
 ```
-![Top langs – donut](https://github-readme-stats.vercel.app/api/top-langs/?username=Franco-DevPy&layout=donut&langs_count=6&theme=radical)
+![Top langs – donut](https://github-readme-stats.vercel.app/api/top-langs/?username=Franco-DevPy&layout=compact&langs_count=6&theme=dark)
 
 ## 🛠️ Competencias / Habilidades
 
@@ -50,10 +50,21 @@ print(franco.introduce())
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Adobe_After_Effects_CC_icon.svg" alt="after effects" width="40" height="40"/>
+  </a>
 </p>
+
+
 
 
 
