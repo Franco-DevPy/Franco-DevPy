@@ -1,39 +1,35 @@
 <h1 align="center">Hi 👋, I'm Franco</h1>
-<h3 align="center">A passionate frontend developer with French-Argentinian roots. I enjoy creating intuitive user interfaces and bringing ideas to life through clean and dynamic web experiences.</h3>
 
-```py
-const Franco = {
-  pronouns: "He" | "Him",
-  code: [HTML,CSS,Javascript,Python,],
-  tools: [React, Typescript, Gsap, Django,],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+
+
+
+
+
+```python
+class Developer:
+    def __init__(self, name, nationality, role):
+        self.name = name
+        self.nationality = nationality
+        self.role = role
+        self.skills = ["HTML", "CSS", "JavaScript", "React", "TypeScript", "Python"]
+        self.tools_dev = ["WordPress", "Tailwind", "Bootstrap"]
+        self.tools_design = ["Figma", "Photoshop", "Illustrator", "After Effects"]
+        self.current_work = (
+            "Currently working at Drotek, building projects as part of a professional training, "
+            "and taking on freelance web design and development work."
+        )
+
+    def introduce(self):
+        return f"Hi, I'm {self.name}, a {self.nationality} {self.role}."
+
+franco = Developer("Franco", "French-Argentinian", "Frontend Developer & Web Designer")
+print(franco.introduce())
+
 
 ```
 ![Top langs – donut](https://github-readme-stats.vercel.app/api/top-langs/?username=Franco-DevPy&layout=donut&langs_count=6&theme=radical)
 
 ## 🛠️ Competencias / Habilidades
-
-| Tecnología           | Nivel               |
-|----------------------|---------------------|
-| HTML                 | ▮▮▮▮▮▯▯▯▯▯           |
-| CSS                  | ▮▮▮▮▮▮▮▮▮▯           |
-| JavaScript           | ▮▮▮▮▮▮▮▯▯▯         |
-| React                | ▮▮▮▮▮▮▯▯▯▯         |
-| TypeScript           | ▮▮▮▮▯▯▯▯▯▯         |
-| Python               | ▮▮▮▮▮▮▮▮▯▯         |
-| **WordPress**        | ▮▮▮▮▯▯▯▯▯▯         |
-
-
-
-
-
 
 
 
@@ -76,17 +72,4 @@ const Franco = {
 
 
 
-<!--
-**Franco-DevPy/Franco-DevPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
