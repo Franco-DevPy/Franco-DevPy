@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Franco</h1>
-<div align="start" >
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50">
-</div>
+# Hi ! , I'm Franco <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="40" height="40" alt="Pacman"/>
+
+
+
+
 
 ```python
 class Developer:
