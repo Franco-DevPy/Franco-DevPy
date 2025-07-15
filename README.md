@@ -28,8 +28,7 @@ print(franco.introduce())
 ```
 ![Top langs – donut](https://github-readme-stats.vercel.app/api/top-langs/?username=Franco-DevPy&layout=compact&langs_count=6&theme=dark)
 
-## 🛠️ Competencias / Habilidades
-
+## 🛠️ Skills / Abilities
 
 
 <h3 align="left">Lenguajes:</h3>
